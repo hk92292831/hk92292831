@@ -1,6 +1,6 @@
 - 👋 Hi, I’m H.S. LAM
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning ....
+- 🌱 
 
 <!---
 hk92292831/hk92292831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
